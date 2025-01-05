@@ -121,12 +121,12 @@ def add_predictions(input_data):
 
 def main():
     st.set_page_config(
-        page_title="Lung Cancer Predictor",
+        page_title="Liver Disease Predictor",
         layout="wide",
         initial_sidebar_state="expanded"
     )
     with st.container():
-        st.title("Lung cancer Detector")
+        st.title("Liver Disease Detector")
         st.write("Please connect to your labatory or put in the values by hand :)")
     col1,col2=st.columns([4,1])#first one 4 times longer than second
     input_data=sidebar()
