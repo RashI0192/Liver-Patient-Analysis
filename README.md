@@ -1,7 +1,8 @@
 # Liver-Patient-Analysis
 
 StreamLit : 
-<img width="1439" alt="Screenshot 2024-12-29 at 2 40 18 PM" src="https://github.com/user-attachments/assets/4d7a5728-781c-41e1-a935-1e0c54f9a890" />
+<img width="1440" alt="Screenshot 2025-01-05 at 7 36 13 PM" src="https://github.com/user-attachments/assets/0c244262-cf33-466e-aeb2-e27acea45ffb" />
+
 
 !pip install -r requirements.txt
 </br>
